@@ -1,0 +1,36 @@
+_repo: Illustrated-Catalogue-of-a-Portion-of-the-Collections-Made-During-the-Field-Season-of-1881Gov__19416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, William Henry
+    aliases:
+    - Holmes, William H. (William Henry)
+    - Holmes, W. H. (William Henry)
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '7330'
+    url: http://www.gutenberg.org/2009/agents/7330
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
+description: ''
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- Antiquities'
+- !lcsh 'Tennessee -- Antiquities'
+- !lcsh 'Arkansas -- Antiquities'
+- !lcsh 'Indians of North America -- Antiquities'
+- !lcc 'E011'
+title: "Illustrated Catalogue of a Portion of the Collections Made During the Field\
+  \ Season of 1881\r\nThird Annual Report of the Bureau of Ethnology to the Secretary\
+  \ of the Smithsonian Institution, 1881-82, Government Printing Office, Washington,\
+  \ 1884, pages 427-510"
+url: http://www.gutenberg.org/ebooks/19416
